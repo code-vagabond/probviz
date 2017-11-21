@@ -1,0 +1,32 @@
+
+{
+    "gitbook": "3.1.1",
+    "title": "Learn RxJS",
+    "plugins": [
+      "include-codeblock",
+      "advanced-emoji",
+      "prism",
+      "highlight",
+      "copy-code-button",
+      "edit-link",
+      "github",
+      "github-buttons"
+    ],
+    "pluginsConfig": {
+      "edit-link": {
+        "base": "https://github.com/code-vagabond/probviz/tree/master",
+        "label": "Edit This Page"
+      },
+      "github": {
+        "url": "https://github.com/code-vagabond/probviz/"
+      },
+      "github-buttons": {
+        "repo": "code-vagabond/probviz",
+        "types": [
+          "star",
+          "watch"
+        ],
+        "size": "medium"
+      }
+    }
+  }
