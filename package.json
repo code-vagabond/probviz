@@ -1,0 +1,28 @@
+{
+  "name": "lern-stoch",
+  "version": "1.0.0",
+  "description": "Lerne Stochastik anhand von Beispielen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-vagabond/probviz.git"
+  },
+  "keywords": [
+    "math",
+    "prob"
+  ],
+  "author": "code-vagabond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-vagabond/probviz/issues"
+  },
+  "homepage": "https://github.com/code-vagabond/probviz#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-jsfiddle": "^1.0.0"
+  }
+}
