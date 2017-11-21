@@ -11,4 +11,6 @@
 * [Diskrete Verteilung](/zufallsvariable/README.md)
   * [Erwartungswert](/zufallsvariable/diskret.md)
   * [Varianz](/zufallsvariable/kontinuierlich.md)
+* [Permutation](permutation.md)
+  * [sd](permutation/sd.md)
 
