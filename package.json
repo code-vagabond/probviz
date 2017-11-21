@@ -22,10 +22,6 @@
   },
   "homepage": "https://github.com/code-vagabond/probviz#readme",
   "dependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-jsfiddle": "^1.0.0"
-  },
-  "devDependencies": {
-    "gitbook-styleguide": "^7.9.3"
+    "gitbook-cli": "^2.3.2"
   }
 }
