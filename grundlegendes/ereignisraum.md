@@ -5,7 +5,8 @@
 
 <script async src="//jsfiddle.net/endsub/daonn1vw/embed/result,js/"></script>
 
-<html>
+<script>
+const Dropdown = require('gitbook-styleguide/lib/Dropdown')
 <Dropdown>
     <Button>
         Toggle dropdown <Button.Caret />
@@ -16,4 +17,4 @@
     <Dropdown.Divider />
     <Dropdown.Item onClick={e => alert('Logout')}>Logout</Dropdown.Item>
 </Dropdown>
-</html>
+</script>
