@@ -1,0 +1,6 @@
+### Diskrete Zufallsvariable
+
+
+
+
+
