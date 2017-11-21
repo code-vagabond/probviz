@@ -5,7 +5,6 @@
 * [Einführung](README.md)
 * [Grundlegendes](/grundlegendes/README.md)
   * [Ereignisraum](/grundlegendes/ereignisraum.md)
-    * [Vereinigung](/grundlegendes/vereinigung.md)
   * [Ergebnisraum](grundlegendes/ergebnisraum.md)
 * [Normale Verteilung](normal_dis.md)
 * [asdf](asdf.md)
