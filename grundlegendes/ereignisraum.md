@@ -5,7 +5,7 @@
 
 <script async src="//jsfiddle.net/endsub/daonn1vw/embed/result,js/"></script>
 
-<script>
+<html>
 <Dropdown>
     <Button>
         Toggle dropdown <Button.Caret />
@@ -16,4 +16,4 @@
     <Dropdown.Divider />
     <Dropdown.Item onClick={e => alert('Logout')}>Logout</Dropdown.Item>
 </Dropdown>
-</script>
+</html>
