@@ -1,7 +1,7 @@
 
 {
-    "gitbook": "3.1.1",
-    "title": "Learn RxJS",
+    "gitbook": "3.2.2",
+    "title": "ProbViz",
     "plugins": [
       "include-codeblock",
       "advanced-emoji",
