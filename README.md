@@ -7,8 +7,15 @@ Um beizutragen den Repo clonen, dann folgende Befehle ausführen
 
 ```
 npm install 
+```
+```
 npm run gitbook install 
+```
+```
 npm run gitbook serve
 ```
+
+
+
 
 
